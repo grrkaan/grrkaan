@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Fraud.com](fraud.com)
+- 🔭 I’m currently working on <a href="fraud.com" target="_blank" rel="noreferrer">Fraud.com</a>
 
 - 📫 How to reach me **kaangorur@hotmail.com**
 
